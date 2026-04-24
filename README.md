@@ -8,7 +8,7 @@ This development is currently in the works, feel free to fork the project or hel
 
 # Does this differ from the Cosmos X plugin?
 No. i'm making this plugin so that the killstreak doesn't need Cosmos X alone.
-
+(don't even try seraching for it, you won't find it because its not released yet.)
 # Instructions
 - Put the tf2killstreak.xex in the HDD or any device. (HDD is recommended)
 - Open your plugin injector program
